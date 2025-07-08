@@ -11,3 +11,5 @@ public class Main {
         System.out.println(estado.getDescricao());
     }
 }
+
+//EstadoImc estado = EstadoImcFactory.getEstado(imc);
